@@ -12,7 +12,7 @@ Once all characters are found, try to shrink the window while maintaining all re
 Keep track of the minimum window length and update the result.
 
 Time Complexity: O(n), since we traverse s at most twice.
-Space Complexity: O(1), since we only store at most 52 characters (A-Z, a-z).
+Space Complexity: O(1), since we only store at most 52 characters (A-Z, a-z).....
 
 
 
